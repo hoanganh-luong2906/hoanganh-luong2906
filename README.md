@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luong Hoang Anh</h1>
-<h3 align="center">A enthusiastic full-stack developer learning to build projects and himself everyday. With an aim to become a professional developer within 5 years, I will pull my weight into every experience I take.</h3>
+<h3 align="center">An enthusiastic full-stack developer learning to build projects and himself everyday. With an aim to become a professional developer within 5 years, I will pull my weight into every experience I take.</h3>
 
 - 🌱 I’m currently learning **UI Animation, UX Design**
 
