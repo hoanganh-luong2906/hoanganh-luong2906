@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **hoanganh.luong2906@gmail.com**
 
-- ⚡ Fun fact **Self-discipline and outgoing personality**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/hoanganh.luong2906" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hoanganh.luong2906" height="30" width="40" /></a>
