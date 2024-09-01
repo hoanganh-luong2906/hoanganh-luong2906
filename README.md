@@ -7,8 +7,8 @@
 # 📊 GitHub Stats:
 <p align="center">
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoanganh-luong2906&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/></a><br/>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=hoanganh-luong2906&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150"/></a>
-  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hoanganh-luong2906&theme=dark&hide_border=false" height="150"/></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=hoanganh-luong2906&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="160"/></a>
+  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hoanganh-luong2906&theme=dark&hide_border=false" height="160"/></a>
 </p>
 
 ### 🔝 Top Contributed Repo
