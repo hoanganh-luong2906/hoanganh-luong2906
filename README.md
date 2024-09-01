@@ -12,7 +12,9 @@
 </p>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=hoanganh-luong2906&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="#"><img src="https://github-contributor-stats.vercel.app/api?username=hoanganh-luong2906&limit=5&theme=dark&combine_all_yearly_contributions=true"/></a>
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=hoanganh-luong2906&icon=0&color=0)](https://visitcount.itsvg.in)
